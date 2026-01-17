@@ -34,18 +34,11 @@
 
 ### Steps
 
-```bash
-# Clone the repo
-git clone https://github.com/K-Charan2006/AllWays-Care-IVR.git
-cd AllWays-Care-IVR
 
 # Install dependencies
 npm install
 # or
 yarn
-
-# Set environment variables
-# Create a `.env.local` file and add your required keys (if any)
 
 # Start the app
 npm run dev
